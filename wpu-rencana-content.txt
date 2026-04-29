@@ -2,5 +2,5 @@ RENCANA KONTEN WPU
 
 - Javascript
 - PHP Framework
-- Interviem
+- Interview
 - Vlogs
